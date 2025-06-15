@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elabservices</title>
-</head>
-<body>
+
 <div style="width: 1440; height: 9800; position: relative; background: white; overflow: hidden">
     
     <div data-property-1="buttom" style="width: 137px; height: 42px; left: 1250px; top: 67px; position: absolute">
@@ -13,14 +6,15 @@
         <div style="left: 41.70px; top: 10.11px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Login</div>
     </div>
     
-    <img style="width: 1500px; height: 699px; left: 0px; top: 141px; position: absolute" src="C:\Users\camil\Downloads\132565ebd6c4e56c65b34ac9badcbf3c744d7f4d.png" />
+    <img class="banner0" style="width: 1500px; height: 699px; left: 0px; top: 141px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/132565ebd6c4e56c65b34ac9badcbf3c744d7f4d.png?raw=true" />
     
     <div style="width: 753px; height: 50px; left: 343px; top: 3185px; position: absolute; color: black; font-size: 40px; font-family: Jost; font-weight: 700; word-wrap: break-word">Alguns serviços e média de faturamento</div>
     <div style="width: 385px; height: 423px; left: 73px; top: 3317px; position: absolute; background: #E86302; border-radius: 25px"></div>
     
     <div data-property-1="Frame 2" style="width: 385px; height: 171px; left: 73px; top: 3317px; position: absolute">
         
-        <img class="Escritorio" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="C:\Users\camil\Downloads\e9352fed22d2871ee49b4ffe68ad57a2d26ee0fc.png" />
+        <img class="Escritorio" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="https://github.com/Camilasimoes1/favocowork/blob/main/e9352fed22d2871ee49b4ffe68ad57a2d26ee0fc.png?raw=true" />
+        
         <div style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0); border-radius: 11px"></div>
         <div style="left: 102px; top: 93px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0); font-size: 29px; font-family: Jost; font-weight: 600; word-wrap: break-word">Mais detalhes</div>
    
@@ -46,7 +40,7 @@
    
     <div style="width: 1332px; height: 654px; left: 69px; top: 8293px; position: absolute; background: white; overflow: hidden">
         
-        <img class="formulario" style="width: 1332px; height: 654px; left: 0px; top: 0px; position: absolute" src="C:\Users\camil\Downloads\dee5fe9631503ea9a28b46ec24fcb2a3002237d8.png" />
+        <img class="formulario" style="width: 1332px; height: 654px; left: 0px; top: 0px; position: absolute" src=https://github.com/Camilasimoes1/favocowork/blob/main/dee5fe9631503ea9a28b46ec24fcb2a3002237d8.png?raw=true"" />
    
     </div>
    
@@ -56,7 +50,8 @@
     <div style="width: 385px; height: 423px; left: 527px; top: 3317px; position: absolute; background: #E86302; border-radius: 25px"></div>
     <div data-property-1="Frame 2" style="width: 385px; height: 171px; left: 527px; top: 3317px; position: absolute">
        
-        <img class="Espaço" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="C:\Users\camil\Downloads\f85e5789a5833f98e73b5c0fe8d9df48b3905506.jpg" />
+        <img class="Espaço" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="https://github.com/Camilasimoes1/favocowork/blob/main/f85e5789a5833f98e73b5c0fe8d9df48b3905506.jpg?raw=true" />
+        
         <div style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0); border-radius: 11px"></div>
         <div style="left: 102px; top: 93px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0); font-size: 29px; font-family: Jost; font-weight: 600; word-wrap: break-word">Mais detalhes</div>
     </div>
@@ -67,14 +62,16 @@
     <div style="width: 385px; height: 423px; left: 981px; top: 3317px; position: absolute; background: #E86302; border-radius: 25px"></div>
     <div data-property-1="Frame 2" style="width: 385px; height: 171px; left: 981px; top: 3317px; position: absolute">
        
-        <img class="Sala" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="C:\Users\camil\Downloads\3924f84f86409c4198dd6e1f6df19da79122aca0.jpg" />
+        <img class="Sala" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="https://github.com/Camilasimoes1/favocowork/blob/main/3924f84f86409c4198dd6e1f6df19da79122aca0.jpg?raw=true" />
+        
         <div style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0); border-radius: 11px"></div>
         <div style="left: 102px; top: 93px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0); font-size: 29px; font-family: Jost; font-weight: 600; word-wrap: break-word">Mais detalhes</div>
     </div>
     <div style="width: 385px; height: 423px; left: 73px; top: 3819px; position: absolute; background: #E86302; border-radius: 25px"></div>
     <div data-property-1="Frame 2" style="width: 385px; height: 171px; left: 73px; top: 3819px; position: absolute">
         
-        <img class="Endereço" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="C:\Users\camil\Downloads\99fcdcd39ae689ded14d1c988392a8600d95c9de.jpg" />
+        <img class="Endereço" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="https://github.com/Camilasimoes1/favocowork/blob/main/99fcdcd39ae689ded14d1c988392a8600d95c9de.jpg?raw=true" />
+        
         <div style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0); border-radius: 11px"></div>
         <div style="left: 102px; top: 93px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0); font-size: 29px; font-family: Jost; font-weight: 600; word-wrap: break-word">Mais detalhes</div>
     </div>
@@ -87,7 +84,8 @@
     <div style="width: 385px; height: 423px; left: 527px; top: 3819px; position: absolute; background: #E86302; border-radius: 25px"></div>
     <div data-property-1="Frame 2" style="width: 385px; height: 171px; left: 527px; top: 3819px; position: absolute">
         
-        <img class="Auditorio" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="C:\Users\camil\Downloads\937d2dbff50821779be9a5d906dd2e5aa2184d07.jpg" />
+        <img class="Auditorio" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="https://github.com/Camilasimoes1/favocowork/blob/main/937d2dbff50821779be9a5d906dd2e5aa2184d07.jpg?raw=true" />
+        
         <div style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0); border-radius: 11px"></div>
         <div style="left: 102px; top: 93px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0); font-size: 29px; font-family: Jost; font-weight: 600; word-wrap: break-word">Mais detalhes</div>
     </div>
@@ -98,7 +96,8 @@
     <div style="width: 385px; height: 423px; left: 981px; top: 3819px; position: absolute; background: #E86302; border-radius: 25px"></div>
     <div data-property-1="Frame 2" style="width: 385px; height: 171px; left: 981px; top: 3819px; position: absolute">
        
-        <img class="Gravacao" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="C:\Users\camil\Downloads\3ad2bb15768ca5b8953c04590870656fd7116704.png" />
+        <img class="Gravacao" style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; border-radius: 11px" src="https://github.com/Camilasimoes1/favocowork/blob/main/3ad2bb15768ca5b8953c04590870656fd7116704.png?raw=true" />
+        
         <div style="width: 385px; height: 186px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0); border-radius: 11px"></div>
         <div style="left: 102px; top: 93px; position: absolute; text-align: center; color: rgba(255, 255, 255, 0); font-size: 29px; font-family: Jost; font-weight: 600; word-wrap: break-word">Mais detalhes</div>
    </div>
@@ -111,42 +110,39 @@
     <div style="width: 342px; height: 26px; left: 1003px; top: 3681px; position: absolute; text-align: center; color: white; font-size: 19px; font-family: Jost; font-weight: 700; line-height: 27.44px; word-wrap: break-word">Total de 80 horas = R$4.000,00/mês.</div>
     <div style="width: 988px; height: 338px; left: 226px; top: 906px; position: absolute; background: white; box-shadow: 0px 4px 18.399999618530273px rgba(0, 0, 0, 0.40); border-radius: 13px"></div>
    
-    <img class="quadro1" style="width: 274px; height: 256px; left: 277px; top: 947px; position: absolute" src="C:\Users\camil\Downloads\3aaf6b62f23d7597c034f516c8b469d30067124d.jpg" />
-    <img class="Quadro2" style="width: 274px; height: 256px; left: 583px; top: 947px; position: absolute" src="C:\Users\camil\Downloads\3b0b0fe84644819a65594619c279cf3d4c55e699.jpg" />
-    <img class="Quadro3" style="width: 274px; height: 256px; left: 889px; top: 947px; position: absolute" src="C:\Users\camil\Downloads\99789cc6548f0d5a2e3d89853f2d334bec85f2b4.jpg" />
+    <img class="quadro1" style="width: 274px; height: 256px; left: 277px; top: 947px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/3aaf6b62f23d7597c034f516c8b469d30067124d.jpg?raw=true" />
+    <img class="Quadro2" style="width: 274px; height: 256px; left: 583px; top: 947px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/3b0b0fe84644819a65594619c279cf3d4c55e699.jpg?raw=true" />
+    <img class="Quadro3" style="width: 274px; height: 256px; left: 889px; top: 947px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/99789cc6548f0d5a2e3d89853f2d334bec85f2b4.jpg?raw=true" />
     
    
-    <img class="banner1" style="width: 502px; height: 251px; left: 195px; top: 1325px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\787c6b4e2e9192bcf4174d12dbdfa52d377c2ae4.png" />
-    <img class="banner2" style="width: 502px; height: 251px; left: 743px; top: 1325px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\bfe0c5b679b009ad8ad7a6c76313030262ab20a3.png" />
-    <img class="banner3" style="width: 502px; height: 251px; left: 195px; top: 1662px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\377047008528f4d9199dc44665eeb3e954507d06.png" />
-    <img class="banner4" style="width: 502px; height: 251px; left: 743px; top: 1662px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\7d0339a91102c9217806418d086c9cd344338153.png" />
-    <img class="banner5" style="width: 502px; height: 251px; left: 195px; top: 1994px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\ca57ad2c90fd07840cc68504699301860ce8d5fa.png" />
+    <img class="banner1" style="width: 502px; height: 251px; left: 195px; top: 1325px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/787c6b4e2e9192bcf4174d12dbdfa52d377c2ae4.png?raw=true" />
+    <img class="banner2" style="width: 502px; height: 251px; left: 743px; top: 1325px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/bfe0c5b679b009ad8ad7a6c76313030262ab20a3.png?raw=true" />
+    <img class="banner3" style="width: 502px; height: 251px; left: 195px; top: 1662px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/377047008528f4d9199dc44665eeb3e954507d06.png?raw=true" />
+    <img class="banner4" style="width: 502px; height: 251px; left: 743px; top: 1662px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/7d0339a91102c9217806418d086c9cd344338153.png?raw=true" />
+    <img class="banner5" style="width: 502px; height: 251px; left: 195px; top: 1994px; position: absolute; box-shadow: 0px 4px 6.5px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/ca57ad2c90fd07840cc68504699301860ce8d5fa.png?raw=true" />
     
-    <img class="virtual" style="width: 613px; height: 306px; left: 85px; top: 5124px; position: absolute" src="C:\Users\camil\Downloads\5a918496b163f3efad669ecea6e017115f26b0f1.png" />
-    <img class="fisica" style="width: 613px; height: 306px; left: 741px; top: 5124px; position: absolute" src="C:\Users\camil\Downloads\c43a6b7c98a9babb8a39e5cdb8acd3ce9f2b4fd1.png" />
+    <img class="virtual" style="width: 613px; height: 306px; left: 85px; top: 5124px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/5a918496b163f3efad669ecea6e017115f26b0f1.png?raw=true" />
+    <img class="fisica" style="width: 613px; height: 306px; left: 741px; top: 5124px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/c43a6b7c98a9babb8a39e5cdb8acd3ce9f2b4fd1.png?raw=true" />
    
-    <img class="banner6" style="width: 1181px; height: 591px; left: 115px; top: 4421px; position: absolute; box-shadow: 0px 4px 11.899999618530273px 4px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\463940c3483fc7797de8dc2f43a81b8e993cef5c (1).jpg" />
-    <img class="banner7" style="width: 1130px; height: 575px; left: 143px; top: 6350px; position: absolute" src="C:\Users\camil\Downloads\4981472b591b35aa45f5862a843d86ca8d83bd5e.png" />
+    <img class="banner6" style="width: 1181px; height: 591px; left: 115px; top: 4421px; position: absolute; box-shadow: 0px 4px 11.899999618530273px 4px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/463940c3483fc7797de8dc2f43a81b8e993cef5c%20(1).jpg?raw=true" />
+    <img class="banner7" style="width: 1130px; height: 575px; left: 143px; top: 6350px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/01edcf6f3fd5b7343636b1c9dd3ed19de00ef887.png?raw=true" />
     
     <div data-property-1="Frame 2" style="width: 1265px; height: 560px; left: 87px; top: 7585px; position: absolute; background: white; overflow: hidden">
         <div style="width: 2721px; height: 560px; left: 0px; top: 0px; position: absolute">
-            <img style="width: 1265px; height: 560px; left: 0px; top: 0px; position: absolute" src="C:\Users\camil\Downloads\01edcf6f3fd5b7343636b1c9dd3ed19de00ef887.png" />
+            <img class="cotação" style="width: 1265px; height: 560px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/4981472b591b35aa45f5862a843d86ca8d83bd5e.png?raw=true" />
         </div>
     </div>
     
-    <img class="q1" style="width: 720px; height: 354px; left: 0px; top: 5503px; position: absolute" src="C:\Users\camil\Downloads\fbbf1b123cbbea0c8157a4d57928d1ba43d27387.jpg" />
-    <img class="q2" style="width: 720px; height: 354px; left: 720px; top: 5503px; position: absolute" src="C:\Users\camil\Downloads\62b68db010e5b05fe284458b634dbfa8edc80220.jpg" />
-    <img class="q3" style="width: 720px; height: 354px; left: 720px; top: 5857px; position: absolute" src="C:\Users\camil\Downloads\4f6b9863be9fe002d5a1be9ca1ef6480084eb561.jpg" />
-    <img class="q4" style="width: 720px; height: 354px; left: 0px; top: 5857px; position: absolute" src="C:\Users\camil\Downloads\ed63cd454b23fb8bd66d2c15dcb690a45b0db1a5.jpg" />
+    <img class="q1" style="width: 720px; height: 354px; left: 0px; top: 5503px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/fbbf1b123cbbea0c8157a4d57928d1ba43d27387.jpg?raw=true" />
+    <img class="q2" style="width: 720px; height: 354px; left: 720px; top: 5503px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/ed63cd454b23fb8bd66d2c15dcb690a45b0db1a5.jpg?raw=true" />
+    <img class="q3" style="width: 720px; height: 354px; left: 720px; top: 5857px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/62b68db010e5b05fe284458b634dbfa8edc80220.jpg?raw=true" />
+    <img class="q4" style="width: 720px; height: 354px; left: 0px; top: 5857px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/4f6b9863be9fe002d5a1be9ca1ef6480084eb561.jpg?raw=true" />
     
     <div style="width: 1442px; height: 448px; left: -2px; top: 6998px; position: absolute; background: black"></div>
-    <img class="minib2" style="width: 404px; height: 309px; left: 515px; top: 7067px; position: absolute" src="C:\Users\camil\Downloads\b43a9501f1f5b360e9291808b69b4deca12eddfe.jpg" />
-    <img class="minib3" style="width: 404px; height: 309px; left: 972px; top: 7067px; position: absolute" src="C:\Users\camil\Downloads\dd71967d474b6e7fb52226a7beee778d030a1d0a.jpg" />
-    <img class="minib1" style="width: 404px; height: 309px; left: 58px; top: 7067px; position: absolute" src="C:\Users\camil\Downloads\2d272438fbb69964a37ccd580585f142fcc0f072.jpg" />
+    <img class="minib2" style="width: 404px; height: 309px; left: 515px; top: 7067px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/2d272438fbb69964a37ccd580585f142fcc0f072.jpg?raw=true" />
+    <img class="minib3" style="width: 404px; height: 309px; left: 972px; top: 7067px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/b43a9501f1f5b360e9291808b69b4deca12eddfe.jpg?raw=true" />
+    <img class="minib1" style="width: 404px; height: 309px; left: 58px; top: 7067px; position: absolute" src="https://github.com/Camilasimoes1/favocowork/blob/main/dd71967d474b6e7fb52226a7beee778d030a1d0a.jpg?raw=true" />
    
     <div data-property-1="Frame 1" style="width: 1440px; height: 716px; left: 0px; top: 2326px; position: absolute; background: white; overflow: hidden">
-        <img style="width: 1440px; height: 716px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 4px 15.600000381469727px 4px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\b9f0a602da11861a3c6049119e990cd9c386e66d.jpg" />
+        <img style="width: 1440px; height: 716px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 4px 15.600000381469727px 4px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/favocowork/blob/main/b9f0a602da11861a3c6049119e990cd9c386e66d.jpg?raw=true" />
     </div>
-        
-  </body>
-</html>
